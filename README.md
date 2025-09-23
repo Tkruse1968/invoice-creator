@@ -81,12 +81,25 @@ If something doesn't work:
 - **npm run build** = Makes files you can put on a website
 - **npm test** = Checks if the app is working correctly
 
+## 🔒 Security Features
+
+This app is built with professional security to protect your business and customer data:
+
+- **Customer Information Protected** - All data is secured and validated
+- **Safe File Uploads** - Only images and videos accepted, with size limits
+- **Secure Storage** - Your data stays on your device, safely stored
+- **Input Validation** - Prevents errors and protects against bad data
+- **Trusted External Links** - Only connects to approved auto parts websites
+
+For complete security details, see: [SECURITY.md](../SECURITY.md)
+
 ## Tips for Success
 
 - Always save your work before closing the app
 - Keep the Terminal window open while using the app
 - If things look weird, try refreshing your browser
 - Don't worry about the technical stuff - just follow the steps
+- Use the app on a secure network (not public WiFi for sensitive data)
 
 ## Need More Help?
 The app was made with something called React. If you need to change how it works, you might need help from someone who knows about web apps.
